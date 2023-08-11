@@ -1,2 +1,2 @@
 # encontre_o_Waddles
-Primeiro projeto: Jogo de labirinto feito no p5.js onde o objetivo é encontrar o pet da personagem.
+Primeiro projeto na Cubos Academy com a orientação do Profº Guido Cerqueira no p5.js (baseada em programação Javascript e Processing).
